@@ -61,8 +61,12 @@ h1 {
     font-size: 0.9,7rem;
 }
 p {
-  color: aliceblue;
+  font-family: work sans,sans-serif;
+  margin: 20px;
+  font-size: 1.1rem;
+  color: white;
   text-align: justify;
+  letter-spacing: 1px;
 }
 #clique {
   color: rgb(161, 108, 35);
@@ -110,6 +114,7 @@ ul li:hover {
   align-items: center;
   gap: 2rem;
   justify-content: center;
+  
 }
 #text-busca {
   align-items: center;
@@ -117,6 +122,7 @@ ul li:hover {
    border-color: rgb(161, 108, 35);
    font-weight: bold;
    border-style: double;
+   
 }
 .selecione {
   border-radius: 8px;
